@@ -1,7 +1,7 @@
 const response = [
     {
         name: "Ogoti Senior Form 3",
-        category: "pamphlet",
+        category: "pamphlets",
         file: "https://pdfcoffee.com/geog-bk2-mr-ogoti-rm-3-pdf-free.html"
     },
     {
@@ -11,7 +11,7 @@ const response = [
     },
     {
         name: "Form 2 geography notes",
-        category: "pamphlet",
+        category: "pamphlets",
         file: "https://ercec.sc.ke/elearning/secondary/f2/Form%202%20geography%20notes.pdf"
     },
     {
@@ -20,8 +20,8 @@ const response = [
         file: "https://www.dirzon.com/Zon/DownloadStart?target=telegram%3AKLB-Chem-B3%20(3).pdf&token=cfaba6e2e8674527a5caca34ddde36f1&converted=False"
     },
     {
-        name: "Education Handbook",
+        name: "KLB Physics book 1 PDF",
         category: "books",
-        file: "documents/education-handbook.pdf"
+        file: "https://www.dirzon.com/download-ready?token=2a3492a0bb1e4de6a4cf53e60dff62bc&converted=False"
     }
 ];
