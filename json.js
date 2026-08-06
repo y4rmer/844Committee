@@ -1,8 +1,8 @@
 const response = [
     {
-        name: "Committee Constitution",
-        category: "books",
-        file: "documents/constitution.pdf"
+        name: "Ogoti Senior Form 3",
+        category: "pamphlet",
+        file: "https://pdfcoffee.com/geog-bk2-mr-ogoti-rm-3-pdf-free.html"
     },
     {
         name: "844 CBC Comparison",
