@@ -10,9 +10,9 @@ const response = [
         file: "https://dirzon.com/Zon/DownloadStart?target=telegram%3ABIOLOGY%20MADE%20FAMILIAR%20QNS.pdf&token=6b6b7d3324b34aa8aa3cb7d66960524e&converted=False"
     },
     {
-        name: "Frequently Asked Questions",
-        category: "q&a",
-        file: "documents/faq.pdf"
+        name: "Form 2 geography notes",
+        category: "pamphlet",
+        file: "https://ercec.sc.ke/elearning/secondary/f2/Form%202%20geography%20notes.pdf"
     },
     {
         name: "Meeting Minutes",
